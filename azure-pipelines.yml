@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: Default
+  name: default
 
 variables:
   imageName: employee-login-app
